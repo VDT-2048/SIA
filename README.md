@@ -1,5 +1,6 @@
 # VI-RGBT3500
 VI-RGBT3500 dataset and different illumination challenge scenes
+
 The VI-RGBT3500 dataset contains 630 pairs of variable illumination images from the VT821, VT1000, and VT5000, 1190 pairs of images from the VDT2048, and all images from the VI-RGBT1500 dataset. Finally, we select 1775 pairs of images as the training dataset and the remaining 1725 pairs of images as the test dataset, as shown in Fig. 8.
 
 ![8](https://github.com/VDT-2048/SIA/assets/101933818/0a3d6ab7-5651-4efd-b6a7-fda21b64e6e7)
