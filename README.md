@@ -36,6 +36,8 @@ https://pan.baidu.com/s/1zuAyVN4hHsEQWbgw0d9AUQ?pwd=nvb7
 
 # Paper
 https://www.sciencedirect.com/science/article/abs/pii/S0143816623003718
+
+
 [2024-SIA RGB-T salient object detection network with salient-illumination awareness.pdf](https://github.com/VDT-2048/SIA/files/14155462/2024-SIA.RGB-T.salient.object.detection.network.with.salient-illumination.awareness.pdf)
 
 
